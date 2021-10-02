@@ -1,2 +1,2 @@
-# vulnerable-php-code-examples
-Examples of vulnerable PHP code
+# Exam - SAST
+Sample code to be scanned with SonarQube
